@@ -4,9 +4,9 @@
 
 ## 🐉 3D Dragon Slider
 
-This project is a 3D image slider featuring epic dragon visuals 🐲🔥.
+✅This project is a 3D image slider featuring epic dragon visuals 🐲🔥.
 
-Created using only HTML and CSS, it brings a dynamic and eye-catching carousel effect to showcase fantasy-themed images in style. ✨
+✅Created using only HTML and CSS, it brings a dynamic and eye-catching carousel effect to showcase fantasy-themed images in style. ✨
 
 ## ✨ Features
 

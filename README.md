@@ -1,4 +1,4 @@
-# 3D-DragonSlider
+# 🐉 3D-DragonSlider
 
 ![](./images/images/3D-ImageSlider.gif)
 
